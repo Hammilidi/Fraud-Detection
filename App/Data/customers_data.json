@@ -1,0 +1,2202 @@
+[
+    {
+        "account_history": [
+            "T00310",
+            "T00311",
+            "T00426",
+            "T00660",
+            "T00686",
+            "T00703",
+            "T00792"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 211.28149465770593
+        },
+        "customer_id": "C000",
+        "demographics": {
+            "age": 52,
+            "location": "City1"
+        }
+    },
+    {
+        "account_history": [
+            "T00023",
+            "T00220",
+            "T00246",
+            "T00360",
+            "T00460",
+            "T00508",
+            "T00544",
+            "T00567",
+            "T00643",
+            "T00741",
+            "T00773",
+            "T00849",
+            "T00892",
+            "T00926"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 476.7087929505844
+        },
+        "customer_id": "C001",
+        "demographics": {
+            "age": 20,
+            "location": "City9"
+        }
+    },
+    {
+        "account_history": [
+            "T00014",
+            "T00025",
+            "T00035",
+            "T00106",
+            "T00162",
+            "T00200",
+            "T00272",
+            "T00596",
+            "T00729",
+            "T00756",
+            "T00843",
+            "T00884",
+            "T00934",
+            "T00967"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 118.35587069490104
+        },
+        "customer_id": "C002",
+        "demographics": {
+            "age": 36,
+            "location": "City9"
+        }
+    },
+    {
+        "account_history": [
+            "T00061",
+            "T00332",
+            "T00358",
+            "T00462",
+            "T00469",
+            "T00526",
+            "T00588",
+            "T00813",
+            "T00887",
+            "T00942"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 381.5529476715943
+        },
+        "customer_id": "C003",
+        "demographics": {
+            "age": 66,
+            "location": "City1"
+        }
+    },
+    {
+        "account_history": [
+            "T00010",
+            "T00072",
+            "T00236",
+            "T00453",
+            "T00518",
+            "T00566",
+            "T00602",
+            "T00787"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 211.06366136964485
+        },
+        "customer_id": "C004",
+        "demographics": {
+            "age": 35,
+            "location": "City3"
+        }
+    },
+    {
+        "account_history": [
+            "T00065",
+            "T00095",
+            "T00110",
+            "T00193",
+            "T00430",
+            "T00436",
+            "T00603",
+            "T00654",
+            "T00753",
+            "T00825",
+            "T00903",
+            "T00909"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 70.84564769123867
+        },
+        "customer_id": "C005",
+        "demographics": {
+            "age": 45,
+            "location": "City9"
+        }
+    },
+    {
+        "account_history": [
+            "T00005",
+            "T00392",
+            "T00535",
+            "T00589",
+            "T00874",
+            "T00996"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 287.9077731288202
+        },
+        "customer_id": "C006",
+        "demographics": {
+            "age": 58,
+            "location": "City8"
+        }
+    },
+    {
+        "account_history": [
+            "T00836"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 498.2472497519125
+        },
+        "customer_id": "C007",
+        "demographics": {
+            "age": 58,
+            "location": "City1"
+        }
+    },
+    {
+        "account_history": [
+            "T00137",
+            "T00159",
+            "T00305",
+            "T00362",
+            "T00414",
+            "T00507",
+            "T00549",
+            "T00569",
+            "T00642",
+            "T00671",
+            "T00737"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 52.07105182808405
+        },
+        "customer_id": "C008",
+        "demographics": {
+            "age": 68,
+            "location": "City6"
+        }
+    },
+    {
+        "account_history": [
+            "T00019",
+            "T00076",
+            "T00267",
+            "T00459",
+            "T00465",
+            "T00730",
+            "T00816",
+            "T00952"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 114.79350923540476
+        },
+        "customer_id": "C009",
+        "demographics": {
+            "age": 22,
+            "location": "City4"
+        }
+    },
+    {
+        "account_history": [
+            "T00093",
+            "T00178",
+            "T00241",
+            "T00271",
+            "T00352",
+            "T00355",
+            "T00634",
+            "T00804",
+            "T00888",
+            "T00898",
+            "T00965"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 219.98372115911516
+        },
+        "customer_id": "C010",
+        "demographics": {
+            "age": 49,
+            "location": "City4"
+        }
+    },
+    {
+        "account_history": [
+            "T00012",
+            "T00098",
+            "T00107",
+            "T00154",
+            "T00195",
+            "T00264",
+            "T00302",
+            "T00340",
+            "T00433",
+            "T00558",
+            "T00574",
+            "T00626",
+            "T00714",
+            "T00956"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 304.1914480999159
+        },
+        "customer_id": "C011",
+        "demographics": {
+            "age": 54,
+            "location": "City8"
+        }
+    },
+    {
+        "account_history": [
+            "T00080",
+            "T00087",
+            "T00151",
+            "T00282",
+            "T00399",
+            "T00440",
+            "T00545",
+            "T00623",
+            "T00886",
+            "T00905",
+            "T00928",
+            "T00930"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 85.64114371256423
+        },
+        "customer_id": "C012",
+        "demographics": {
+            "age": 29,
+            "location": "City9"
+        }
+    },
+    {
+        "account_history": [
+            "T00000",
+            "T00119",
+            "T00231",
+            "T00421",
+            "T00432",
+            "T00434",
+            "T00486",
+            "T00515",
+            "T00839",
+            "T00857",
+            "T00866",
+            "T00998"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 305.02008008085846
+        },
+        "customer_id": "C013",
+        "demographics": {
+            "age": 38,
+            "location": "City4"
+        }
+    },
+    {
+        "account_history": [
+            "T00053",
+            "T00202",
+            "T00315",
+            "T00829"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 465.73822129099784
+        },
+        "customer_id": "C014",
+        "demographics": {
+            "age": 38,
+            "location": "City4"
+        }
+    },
+    {
+        "account_history": [
+            "T00050",
+            "T00146",
+            "T00169",
+            "T00230",
+            "T00284",
+            "T00324",
+            "T00369",
+            "T00373",
+            "T00384",
+            "T00420",
+            "T00480",
+            "T00577",
+            "T00604",
+            "T00608",
+            "T00731",
+            "T00910"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 397.39915133916475
+        },
+        "customer_id": "C015",
+        "demographics": {
+            "age": 42,
+            "location": "City7"
+        }
+    },
+    {
+        "account_history": [
+            "T00111",
+            "T00120",
+            "T00160",
+            "T00203",
+            "T00283",
+            "T00423",
+            "T00625",
+            "T00640",
+            "T00681",
+            "T00724",
+            "T00735",
+            "T00790"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 187.6351879656106
+        },
+        "customer_id": "C016",
+        "demographics": {
+            "age": 27,
+            "location": "City1"
+        }
+    },
+    {
+        "account_history": [
+            "T00002",
+            "T00013",
+            "T00059",
+            "T00346",
+            "T00463",
+            "T00595",
+            "T00736",
+            "T00820",
+            "T00832"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 428.171060663779
+        },
+        "customer_id": "C017",
+        "demographics": {
+            "age": 18,
+            "location": "City8"
+        }
+    },
+    {
+        "account_history": [
+            "T00041",
+            "T00133",
+            "T00213",
+            "T00249",
+            "T00321",
+            "T00636",
+            "T00709",
+            "T00781"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 344.1277341599481
+        },
+        "customer_id": "C018",
+        "demographics": {
+            "age": 22,
+            "location": "City8"
+        }
+    },
+    {
+        "account_history": [
+            "T00042",
+            "T00128",
+            "T00339",
+            "T00793",
+            "T00817",
+            "T00929",
+            "T00964"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 215.93073929455232
+        },
+        "customer_id": "C019",
+        "demographics": {
+            "age": 34,
+            "location": "City2"
+        }
+    },
+    {
+        "account_history": [
+            "T00017",
+            "T00219",
+            "T00452",
+            "T00467",
+            "T00638",
+            "T00670",
+            "T00780",
+            "T00894",
+            "T00970"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 227.88680108915472
+        },
+        "customer_id": "C020",
+        "demographics": {
+            "age": 34,
+            "location": "City3"
+        }
+    },
+    {
+        "account_history": [
+            "T00394",
+            "T00427",
+            "T00489",
+            "T00591",
+            "T00673",
+            "T00752",
+            "T00755",
+            "T00907"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 271.47810549530635
+        },
+        "customer_id": "C021",
+        "demographics": {
+            "age": 69,
+            "location": "City9"
+        }
+    },
+    {
+        "account_history": [
+            "T00027",
+            "T00116",
+            "T00201",
+            "T00268",
+            "T00273",
+            "T00330",
+            "T00699",
+            "T00762",
+            "T00794",
+            "T00837",
+            "T00889",
+            "T00935"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 323.5912220785071
+        },
+        "customer_id": "C022",
+        "demographics": {
+            "age": 53,
+            "location": "City9"
+        }
+    },
+    {
+        "account_history": [
+            "T00006",
+            "T00446",
+            "T00542",
+            "T00599",
+            "T00632",
+            "T00824"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 199.91906748155424
+        },
+        "customer_id": "C023",
+        "demographics": {
+            "age": 59,
+            "location": "City9"
+        }
+    },
+    {
+        "account_history": [
+            "T00038",
+            "T00062",
+            "T00071",
+            "T00118",
+            "T00451",
+            "T00491",
+            "T00631",
+            "T00761",
+            "T00959",
+            "T00984"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 469.4816791492882
+        },
+        "customer_id": "C024",
+        "demographics": {
+            "age": 47,
+            "location": "City4"
+        }
+    },
+    {
+        "account_history": [
+            "T00003",
+            "T00018",
+            "T00094",
+            "T00275",
+            "T00379",
+            "T00509"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 459.28425844826296
+        },
+        "customer_id": "C025",
+        "demographics": {
+            "age": 61,
+            "location": "City3"
+        }
+    },
+    {
+        "account_history": [
+            "T00022",
+            "T00258",
+            "T00269",
+            "T00443",
+            "T00464",
+            "T00548",
+            "T00624",
+            "T00700",
+            "T00707",
+            "T00861"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 52.41236428635769
+        },
+        "customer_id": "C026",
+        "demographics": {
+            "age": 23,
+            "location": "City2"
+        }
+    },
+    {
+        "account_history": [
+            "T00070",
+            "T00121",
+            "T00134",
+            "T00161",
+            "T00185",
+            "T00289",
+            "T00455",
+            "T00458",
+            "T00547",
+            "T00551",
+            "T00818",
+            "T00900",
+            "T00973"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 446.41784051026355
+        },
+        "customer_id": "C027",
+        "demographics": {
+            "age": 42,
+            "location": "City4"
+        }
+    },
+    {
+        "account_history": [
+            "T00206",
+            "T00278",
+            "T00348",
+            "T00364",
+            "T00520",
+            "T00587",
+            "T00616",
+            "T00662",
+            "T00908"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 117.20103548170498
+        },
+        "customer_id": "C028",
+        "demographics": {
+            "age": 44,
+            "location": "City9"
+        }
+    },
+    {
+        "account_history": [
+            "T00304",
+            "T00356",
+            "T00497",
+            "T00586",
+            "T00862",
+            "T00893",
+            "T00932",
+            "T00974"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 117.17361354718992
+        },
+        "customer_id": "C029",
+        "demographics": {
+            "age": 22,
+            "location": "City8"
+        }
+    },
+    {
+        "account_history": [
+            "T00096",
+            "T00172",
+            "T00239",
+            "T00409",
+            "T00475",
+            "T00751",
+            "T00796"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 407.0295494761471
+        },
+        "customer_id": "C030",
+        "demographics": {
+            "age": 64,
+            "location": "City9"
+        }
+    },
+    {
+        "account_history": [
+            "T00309",
+            "T00371",
+            "T00405",
+            "T00415",
+            "T00521",
+            "T00527",
+            "T00684",
+            "T00697",
+            "T00880",
+            "T00882",
+            "T00976"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 448.69639254157335
+        },
+        "customer_id": "C031",
+        "demographics": {
+            "age": 54,
+            "location": "City3"
+        }
+    },
+    {
+        "account_history": [
+            "T00032",
+            "T00051",
+            "T00174",
+            "T00494",
+            "T00827",
+            "T00927"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 426.17948805281156
+        },
+        "customer_id": "C032",
+        "demographics": {
+            "age": 21,
+            "location": "City4"
+        }
+    },
+    {
+        "account_history": [
+            "T00068",
+            "T00199",
+            "T00204",
+            "T00250",
+            "T00291",
+            "T00492",
+            "T00758",
+            "T00769",
+            "T00805",
+            "T00950"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 81.0756631240115
+        },
+        "customer_id": "C033",
+        "demographics": {
+            "age": 57,
+            "location": "City10"
+        }
+    },
+    {
+        "account_history": [
+            "T00292",
+            "T00301",
+            "T00487",
+            "T00537",
+            "T00646",
+            "T00652",
+            "T00733",
+            "T00779",
+            "T00852"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 387.81988527317793
+        },
+        "customer_id": "C034",
+        "demographics": {
+            "age": 36,
+            "location": "City3"
+        }
+    },
+    {
+        "account_history": [
+            "T00102",
+            "T00113",
+            "T00141",
+            "T00157",
+            "T00259",
+            "T00290",
+            "T00354",
+            "T00472",
+            "T00593",
+            "T00689",
+            "T00739",
+            "T00768",
+            "T00955"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 171.72631598637088
+        },
+        "customer_id": "C035",
+        "demographics": {
+            "age": 34,
+            "location": "City2"
+        }
+    },
+    {
+        "account_history": [
+            "T00045",
+            "T00057",
+            "T00214",
+            "T00228",
+            "T00299",
+            "T00331",
+            "T00363",
+            "T00745",
+            "T00850",
+            "T00922",
+            "T00995"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 110.69498261235341
+        },
+        "customer_id": "C036",
+        "demographics": {
+            "age": 60,
+            "location": "City8"
+        }
+    },
+    {
+        "account_history": [
+            "T00008",
+            "T00254",
+            "T00428",
+            "T00694",
+            "T00716",
+            "T00789",
+            "T00937"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 153.3560561836349
+        },
+        "customer_id": "C037",
+        "demographics": {
+            "age": 23,
+            "location": "City3"
+        }
+    },
+    {
+        "account_history": [
+            "T00066",
+            "T00163",
+            "T00366",
+            "T00597",
+            "T00678",
+            "T00728",
+            "T00732",
+            "T00870",
+            "T00940"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 340.1076897920503
+        },
+        "customer_id": "C038",
+        "demographics": {
+            "age": 20,
+            "location": "City9"
+        }
+    },
+    {
+        "account_history": [
+            "T00097",
+            "T00294",
+            "T00374",
+            "T00435",
+            "T00511",
+            "T00674",
+            "T00777",
+            "T00806",
+            "T00847",
+            "T00878",
+            "T00988"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 136.27423957101047
+        },
+        "customer_id": "C039",
+        "demographics": {
+            "age": 44,
+            "location": "City1"
+        }
+    },
+    {
+        "account_history": [
+            "T00210",
+            "T00333",
+            "T00496",
+            "T00562",
+            "T00568",
+            "T00610",
+            "T00612",
+            "T00663",
+            "T00785",
+            "T00944",
+            "T00948"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 108.3442837090839
+        },
+        "customer_id": "C040",
+        "demographics": {
+            "age": 46,
+            "location": "City9"
+        }
+    },
+    {
+        "account_history": [
+            "T00063",
+            "T00085",
+            "T00104",
+            "T00114",
+            "T00190",
+            "T00218",
+            "T00395",
+            "T00407",
+            "T00543",
+            "T00550",
+            "T00600",
+            "T00987",
+            "T00991",
+            "T00999"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 452.7052400497761
+        },
+        "customer_id": "C041",
+        "demographics": {
+            "age": 21,
+            "location": "City2"
+        }
+    },
+    {
+        "account_history": [
+            "T00009",
+            "T00212",
+            "T00742",
+            "T00791",
+            "T00969"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 99.75312250513583
+        },
+        "customer_id": "C042",
+        "demographics": {
+            "age": 44,
+            "location": "City2"
+        }
+    },
+    {
+        "account_history": [
+            "T00033",
+            "T00122",
+            "T00323",
+            "T00510",
+            "T00573",
+            "T00637",
+            "T00651",
+            "T00698",
+            "T00720",
+            "T00809",
+            "T00841",
+            "T00844",
+            "T00957",
+            "T00993"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 401.6259442718766
+        },
+        "customer_id": "C043",
+        "demographics": {
+            "age": 57,
+            "location": "City7"
+        }
+    },
+    {
+        "account_history": [
+            "T00170",
+            "T00620",
+            "T00627",
+            "T00859",
+            "T00885",
+            "T00920"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 398.035135718555
+        },
+        "customer_id": "C044",
+        "demographics": {
+            "age": 25,
+            "location": "City8"
+        }
+    },
+    {
+        "account_history": [
+            "T00150",
+            "T00171",
+            "T00216",
+            "T00244",
+            "T00316",
+            "T00335",
+            "T00368",
+            "T00389",
+            "T00461",
+            "T00523",
+            "T00528",
+            "T00786",
+            "T00798",
+            "T00819",
+            "T00902"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 472.9575933477199
+        },
+        "customer_id": "C045",
+        "demographics": {
+            "age": 54,
+            "location": "City9"
+        }
+    },
+    {
+        "account_history": [
+            "T00390",
+            "T00516",
+            "T00614",
+            "T00679",
+            "T00692",
+            "T00763",
+            "T00943"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 223.89690980569603
+        },
+        "customer_id": "C046",
+        "demographics": {
+            "age": 36,
+            "location": "City7"
+        }
+    },
+    {
+        "account_history": [
+            "T00011",
+            "T00205",
+            "T00351",
+            "T00676",
+            "T00754",
+            "T00799",
+            "T00851",
+            "T00881"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 346.95757052950194
+        },
+        "customer_id": "C047",
+        "demographics": {
+            "age": 18,
+            "location": "City5"
+        }
+    },
+    {
+        "account_history": [
+            "T00039",
+            "T00431",
+            "T00473",
+            "T00499",
+            "T00532",
+            "T00554",
+            "T00561",
+            "T00572",
+            "T00695",
+            "T00746"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 302.2501710137194
+        },
+        "customer_id": "C048",
+        "demographics": {
+            "age": 37,
+            "location": "City10"
+        }
+    },
+    {
+        "account_history": [
+            "T00149",
+            "T00153",
+            "T00233",
+            "T00517",
+            "T00525",
+            "T00557",
+            "T00774",
+            "T00938"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 266.0168337797736
+        },
+        "customer_id": "C049",
+        "demographics": {
+            "age": 40,
+            "location": "City5"
+        }
+    },
+    {
+        "account_history": [
+            "T00020",
+            "T00177",
+            "T00263",
+            "T00308",
+            "T00318",
+            "T00347",
+            "T00533",
+            "T00621",
+            "T00622",
+            "T00771",
+            "T00811",
+            "T00865",
+            "T00925",
+            "T00985"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 367.84972543596746
+        },
+        "customer_id": "C050",
+        "demographics": {
+            "age": 52,
+            "location": "City5"
+        }
+    },
+    {
+        "account_history": [
+            "T00207",
+            "T00232",
+            "T00367",
+            "T00468",
+            "T00564",
+            "T00645",
+            "T00727",
+            "T00764",
+            "T00904",
+            "T00941",
+            "T00946",
+            "T00962"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 188.3085293141774
+        },
+        "customer_id": "C051",
+        "demographics": {
+            "age": 18,
+            "location": "City7"
+        }
+    },
+    {
+        "account_history": [
+            "T00194",
+            "T00444",
+            "T00757",
+            "T00826",
+            "T00936"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 497.76080890752036
+        },
+        "customer_id": "C052",
+        "demographics": {
+            "age": 41,
+            "location": "City9"
+        }
+    },
+    {
+        "account_history": [
+            "T00048",
+            "T00109",
+            "T00242",
+            "T00253",
+            "T00357",
+            "T00380",
+            "T00514",
+            "T00579",
+            "T00675",
+            "T00770",
+            "T00778",
+            "T00834",
+            "T00835"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 485.45730657135863
+        },
+        "customer_id": "C053",
+        "demographics": {
+            "age": 20,
+            "location": "City2"
+        }
+    },
+    {
+        "account_history": [
+            "T00004",
+            "T00090",
+            "T00147",
+            "T00338",
+            "T00342",
+            "T00397",
+            "T00801",
+            "T00864"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 269.4064303396528
+        },
+        "customer_id": "C054",
+        "demographics": {
+            "age": 41,
+            "location": "City2"
+        }
+    },
+    {
+        "account_history": [
+            "T00180",
+            "T00221",
+            "T00227",
+            "T00297",
+            "T00400",
+            "T00701",
+            "T00705",
+            "T00719",
+            "T00906",
+            "T00982"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 245.0743797151252
+        },
+        "customer_id": "C055",
+        "demographics": {
+            "age": 29,
+            "location": "City2"
+        }
+    },
+    {
+        "account_history": [
+            "T00361",
+            "T00450",
+            "T00513",
+            "T00559",
+            "T00563",
+            "T00782",
+            "T00788",
+            "T00919",
+            "T00953"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 329.28213361939913
+        },
+        "customer_id": "C056",
+        "demographics": {
+            "age": 42,
+            "location": "City5"
+        }
+    },
+    {
+        "account_history": [
+            "T00083",
+            "T00143",
+            "T00179",
+            "T00327",
+            "T00502",
+            "T00759",
+            "T00913",
+            "T00986"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 465.822889147521
+        },
+        "customer_id": "C057",
+        "demographics": {
+            "age": 50,
+            "location": "City6"
+        }
+    },
+    {
+        "account_history": [
+            "T00028",
+            "T00075",
+            "T00152",
+            "T00176",
+            "T00317",
+            "T00383",
+            "T00416",
+            "T00939",
+            "T00963"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 337.3956317627277
+        },
+        "customer_id": "C058",
+        "demographics": {
+            "age": 18,
+            "location": "City2"
+        }
+    },
+    {
+        "account_history": [
+            "T00043",
+            "T00054",
+            "T00067",
+            "T00208",
+            "T00247",
+            "T00281",
+            "T00425",
+            "T00457",
+            "T00644",
+            "T00918"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 426.9794013117712
+        },
+        "customer_id": "C059",
+        "demographics": {
+            "age": 68,
+            "location": "City5"
+        }
+    },
+    {
+        "account_history": [
+            "T00192",
+            "T00224",
+            "T00328",
+            "T00337",
+            "T00344",
+            "T00391",
+            "T00594",
+            "T00687",
+            "T00738",
+            "T00750"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 119.3895694498796
+        },
+        "customer_id": "C060",
+        "demographics": {
+            "age": 65,
+            "location": "City4"
+        }
+    },
+    {
+        "account_history": [
+            "T00031",
+            "T00088",
+            "T00175",
+            "T00197",
+            "T00255",
+            "T00688",
+            "T00808",
+            "T00951"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 386.74100798249617
+        },
+        "customer_id": "C061",
+        "demographics": {
+            "age": 63,
+            "location": "City7"
+        }
+    },
+    {
+        "account_history": [
+            "T00086",
+            "T00112",
+            "T00240",
+            "T00261",
+            "T00295",
+            "T00319",
+            "T00442",
+            "T00615"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 76.96735873968012
+        },
+        "customer_id": "C062",
+        "demographics": {
+            "age": 53,
+            "location": "City3"
+        }
+    },
+    {
+        "account_history": [
+            "T00016",
+            "T00115",
+            "T00126",
+            "T00144",
+            "T00313",
+            "T00406",
+            "T00418",
+            "T00601",
+            "T00664",
+            "T00766"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 337.3545444591325
+        },
+        "customer_id": "C063",
+        "demographics": {
+            "age": 47,
+            "location": "City7"
+        }
+    },
+    {
+        "account_history": [
+            "T00001",
+            "T00044",
+            "T00049",
+            "T00079",
+            "T00158",
+            "T00226",
+            "T00260",
+            "T00265",
+            "T00419",
+            "T00484",
+            "T00555",
+            "T00590",
+            "T00618",
+            "T00657",
+            "T00665",
+            "T00666",
+            "T00949"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 311.8863146494686
+        },
+        "customer_id": "C064",
+        "demographics": {
+            "age": 38,
+            "location": "City6"
+        }
+    },
+    {
+        "account_history": [
+            "T00089",
+            "T00132",
+            "T00341",
+            "T00412",
+            "T00438",
+            "T00441",
+            "T00478",
+            "T00565",
+            "T00744"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 66.61741770739047
+        },
+        "customer_id": "C065",
+        "demographics": {
+            "age": 51,
+            "location": "City8"
+        }
+    },
+    {
+        "account_history": [
+            "T00091",
+            "T00184",
+            "T00471",
+            "T00506",
+            "T00628",
+            "T00721",
+            "T00725",
+            "T00877",
+            "T00977"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 462.3714712247953
+        },
+        "customer_id": "C066",
+        "demographics": {
+            "age": 24,
+            "location": "City8"
+        }
+    },
+    {
+        "account_history": [
+            "T00099",
+            "T00129",
+            "T00135",
+            "T00322",
+            "T00343",
+            "T00560"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 241.03009690611327
+        },
+        "customer_id": "C067",
+        "demographics": {
+            "age": 47,
+            "location": "City8"
+        }
+    },
+    {
+        "account_history": [
+            "T00350",
+            "T00376",
+            "T00378",
+            "T00385",
+            "T00449",
+            "T00630",
+            "T00814",
+            "T00872",
+            "T00975"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 428.5283180881721
+        },
+        "customer_id": "C068",
+        "demographics": {
+            "age": 35,
+            "location": "City3"
+        }
+    },
+    {
+        "account_history": [
+            "T00074",
+            "T00078",
+            "T00125",
+            "T00262",
+            "T00277",
+            "T00387",
+            "T00404",
+            "T00619",
+            "T00708",
+            "T00767",
+            "T00784",
+            "T00807",
+            "T00856",
+            "T00983",
+            "T00989"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 148.70509751037036
+        },
+        "customer_id": "C069",
+        "demographics": {
+            "age": 44,
+            "location": "City5"
+        }
+    },
+    {
+        "account_history": [
+            "T00034",
+            "T00084",
+            "T00108",
+            "T00370",
+            "T00445",
+            "T00482",
+            "T00505",
+            "T00607",
+            "T00658",
+            "T00711",
+            "T00712",
+            "T00722",
+            "T00830",
+            "T00840"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 329.04422254694543
+        },
+        "customer_id": "C070",
+        "demographics": {
+            "age": 66,
+            "location": "City8"
+        }
+    },
+    {
+        "account_history": [
+            "T00021",
+            "T00056",
+            "T00156",
+            "T00198",
+            "T00540",
+            "T00553",
+            "T00723",
+            "T00831",
+            "T00875"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 273.3198425665477
+        },
+        "customer_id": "C071",
+        "demographics": {
+            "age": 60,
+            "location": "City2"
+        }
+    },
+    {
+        "account_history": [
+            "T00124",
+            "T00307",
+            "T00336",
+            "T00377",
+            "T00437",
+            "T00454",
+            "T00605",
+            "T00776",
+            "T00853",
+            "T00921",
+            "T00945"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 52.24373768856954
+        },
+        "customer_id": "C072",
+        "demographics": {
+            "age": 37,
+            "location": "City10"
+        }
+    },
+    {
+        "account_history": [
+            "T00248",
+            "T00270",
+            "T00274",
+            "T00280",
+            "T00359",
+            "T00375",
+            "T00522",
+            "T00575",
+            "T00584",
+            "T00765",
+            "T00828",
+            "T00860",
+            "T00911"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 68.56602874252859
+        },
+        "customer_id": "C073",
+        "demographics": {
+            "age": 25,
+            "location": "City2"
+        }
+    },
+    {
+        "account_history": [
+            "T00047",
+            "T00196",
+            "T00585",
+            "T00667",
+            "T00896"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 274.9650017477369
+        },
+        "customer_id": "C074",
+        "demographics": {
+            "age": 31,
+            "location": "City2"
+        }
+    },
+    {
+        "account_history": [
+            "T00064",
+            "T00081",
+            "T00127",
+            "T00312",
+            "T00422",
+            "T00580",
+            "T00598",
+            "T00696",
+            "T00740",
+            "T00749",
+            "T00876",
+            "T00924"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 119.03429949598693
+        },
+        "customer_id": "C075",
+        "demographics": {
+            "age": 60,
+            "location": "City3"
+        }
+    },
+    {
+        "account_history": [
+            "T00138",
+            "T00187",
+            "T00257",
+            "T00349",
+            "T00474",
+            "T00483",
+            "T00869"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 195.82314631594897
+        },
+        "customer_id": "C076",
+        "demographics": {
+            "age": 47,
+            "location": "City7"
+        }
+    },
+    {
+        "account_history": [
+            "T00298",
+            "T00578",
+            "T00655",
+            "T00855",
+            "T00915"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 85.43190830190204
+        },
+        "customer_id": "C077",
+        "demographics": {
+            "age": 23,
+            "location": "City5"
+        }
+    },
+    {
+        "account_history": [
+            "T00024",
+            "T00223",
+            "T00345",
+            "T00417",
+            "T00512",
+            "T00529",
+            "T00536",
+            "T00541",
+            "T00552",
+            "T00653",
+            "T00702",
+            "T00718",
+            "T00748",
+            "T00783",
+            "T00797",
+            "T00912"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 301.9336356154462
+        },
+        "customer_id": "C078",
+        "demographics": {
+            "age": 28,
+            "location": "City6"
+        }
+    },
+    {
+        "account_history": [
+            "T00058",
+            "T00092",
+            "T00209",
+            "T00424",
+            "T00456",
+            "T00503",
+            "T00717",
+            "T00815",
+            "T00891"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 313.8996056166364
+        },
+        "customer_id": "C079",
+        "demographics": {
+            "age": 55,
+            "location": "City5"
+        }
+    },
+    {
+        "account_history": [
+            "T00082",
+            "T00101",
+            "T00105",
+            "T00140",
+            "T00142",
+            "T00165",
+            "T00173",
+            "T00234",
+            "T00266",
+            "T00276",
+            "T00286",
+            "T00477",
+            "T00713",
+            "T00795",
+            "T00842",
+            "T00890",
+            "T00980"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 496.57444929704576
+        },
+        "customer_id": "C080",
+        "demographics": {
+            "age": 22,
+            "location": "City8"
+        }
+    },
+    {
+        "account_history": [
+            "T00167",
+            "T00245",
+            "T00303",
+            "T00410",
+            "T00498",
+            "T00504",
+            "T00609",
+            "T00659",
+            "T00854",
+            "T00972",
+            "T00997"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 259.6835243607361
+        },
+        "customer_id": "C081",
+        "demographics": {
+            "age": 31,
+            "location": "City9"
+        }
+    },
+    {
+        "account_history": [
+            "T00030",
+            "T00225",
+            "T00388",
+            "T00413",
+            "T00606",
+            "T00633",
+            "T00649",
+            "T00650",
+            "T00677",
+            "T00693",
+            "T00743",
+            "T00747",
+            "T00822",
+            "T00883"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 290.1381087060141
+        },
+        "customer_id": "C082",
+        "demographics": {
+            "age": 47,
+            "location": "City3"
+        }
+    },
+    {
+        "account_history": [
+            "T00046",
+            "T00117",
+            "T00256",
+            "T00285",
+            "T00306",
+            "T00538",
+            "T00726",
+            "T00821",
+            "T00867"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 308.13189898015696
+        },
+        "customer_id": "C083",
+        "demographics": {
+            "age": 53,
+            "location": "City1"
+        }
+    },
+    {
+        "account_history": [
+            "T00131",
+            "T00139",
+            "T00189",
+            "T00229",
+            "T00500",
+            "T00648"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 68.65224455335371
+        },
+        "customer_id": "C084",
+        "demographics": {
+            "age": 20,
+            "location": "City5"
+        }
+    },
+    {
+        "account_history": [
+            "T00217",
+            "T00365",
+            "T00401",
+            "T00534",
+            "T00669",
+            "T00683",
+            "T00879",
+            "T00960"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 437.8839386358193
+        },
+        "customer_id": "C085",
+        "demographics": {
+            "age": 53,
+            "location": "City1"
+        }
+    },
+    {
+        "account_history": [
+            "T00015",
+            "T00037",
+            "T00182",
+            "T00237",
+            "T00429",
+            "T00476",
+            "T00592",
+            "T00838",
+            "T00931",
+            "T00947",
+            "T00958"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 460.534287819611
+        },
+        "customer_id": "C086",
+        "demographics": {
+            "age": 43,
+            "location": "City6"
+        }
+    },
+    {
+        "account_history": [
+            "T00155",
+            "T00251",
+            "T00329",
+            "T00495",
+            "T00501",
+            "T00546",
+            "T00583",
+            "T00629",
+            "T00682",
+            "T00775",
+            "T00833",
+            "T00873",
+            "T00899",
+            "T00966"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 95.84295110175536
+        },
+        "customer_id": "C087",
+        "demographics": {
+            "age": 49,
+            "location": "City4"
+        }
+    },
+    {
+        "account_history": [
+            "T00293",
+            "T00296",
+            "T00353",
+            "T00386",
+            "T00411",
+            "T00490",
+            "T00493",
+            "T00639",
+            "T00641",
+            "T00685"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 361.1837440193494
+        },
+        "customer_id": "C088",
+        "demographics": {
+            "age": 34,
+            "location": "City7"
+        }
+    },
+    {
+        "account_history": [
+            "T00164",
+            "T00288",
+            "T00396",
+            "T00408",
+            "T00485",
+            "T00519",
+            "T00647",
+            "T00706",
+            "T00803"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 295.89527872749557
+        },
+        "customer_id": "C089",
+        "demographics": {
+            "age": 33,
+            "location": "City7"
+        }
+    },
+    {
+        "account_history": [
+            "T00052",
+            "T00166",
+            "T00168",
+            "T00183",
+            "T00238",
+            "T00325",
+            "T00439",
+            "T00448",
+            "T00531",
+            "T00635",
+            "T00916",
+            "T00933"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 113.61350658318307
+        },
+        "customer_id": "C090",
+        "demographics": {
+            "age": 48,
+            "location": "City5"
+        }
+    },
+    {
+        "account_history": [
+            "T00191",
+            "T00320",
+            "T00398",
+            "T00402",
+            "T00656",
+            "T00690",
+            "T00895",
+            "T00897",
+            "T00914",
+            "T00954",
+            "T00981"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 219.77217978826204
+        },
+        "customer_id": "C091",
+        "demographics": {
+            "age": 42,
+            "location": "City5"
+        }
+    },
+    {
+        "account_history": [
+            "T00036",
+            "T00100",
+            "T00130",
+            "T00211",
+            "T00382",
+            "T00403",
+            "T00539",
+            "T00668",
+            "T00871",
+            "T00901",
+            "T00990"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 465.7283916513777
+        },
+        "customer_id": "C092",
+        "demographics": {
+            "age": 27,
+            "location": "City3"
+        }
+    },
+    {
+        "account_history": [
+            "T00040",
+            "T00215",
+            "T00279",
+            "T00314",
+            "T00447",
+            "T00470",
+            "T00571",
+            "T00611",
+            "T00617",
+            "T00734",
+            "T00800",
+            "T00868",
+            "T00923",
+            "T00961"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 172.13311677224215
+        },
+        "customer_id": "C093",
+        "demographics": {
+            "age": 22,
+            "location": "City9"
+        }
+    },
+    {
+        "account_history": [
+            "T00055",
+            "T00103",
+            "T00252",
+            "T00524",
+            "T00582",
+            "T00613",
+            "T00661",
+            "T00715",
+            "T00863",
+            "T00917"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 486.8450078065783
+        },
+        "customer_id": "C094",
+        "demographics": {
+            "age": 22,
+            "location": "City4"
+        }
+    },
+    {
+        "account_history": [
+            "T00029",
+            "T00326",
+            "T00381",
+            "T00481",
+            "T00488",
+            "T00530",
+            "T00680",
+            "T00704",
+            "T00846"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 358.9202923234731
+        },
+        "customer_id": "C095",
+        "demographics": {
+            "age": 64,
+            "location": "City3"
+        }
+    },
+    {
+        "account_history": [
+            "T00077",
+            "T00181",
+            "T00186",
+            "T00243",
+            "T00300",
+            "T00372",
+            "T00556",
+            "T00581",
+            "T00710",
+            "T00760",
+            "T00810",
+            "T00812",
+            "T00823",
+            "T00845",
+            "T00858",
+            "T00968"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 185.60437632663053
+        },
+        "customer_id": "C096",
+        "demographics": {
+            "age": 50,
+            "location": "City3"
+        }
+    },
+    {
+        "account_history": [
+            "T00007",
+            "T00073",
+            "T00123",
+            "T00145",
+            "T00148",
+            "T00222",
+            "T00393",
+            "T00466",
+            "T00479",
+            "T00576",
+            "T00672",
+            "T00772",
+            "T00978"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 404.8749923878275
+        },
+        "customer_id": "C097",
+        "demographics": {
+            "age": 62,
+            "location": "City4"
+        }
+    },
+    {
+        "account_history": [
+            "T00069",
+            "T00188",
+            "T00287",
+            "T00570",
+            "T00971",
+            "T00979",
+            "T00992",
+            "T00994"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 310.5846683560789
+        },
+        "customer_id": "C098",
+        "demographics": {
+            "age": 27,
+            "location": "City2"
+        }
+    },
+    {
+        "account_history": [
+            "T00026",
+            "T00060",
+            "T00136",
+            "T00235",
+            "T00334",
+            "T00691",
+            "T00802",
+            "T00848"
+        ],
+        "behavioral_patterns": {
+            "avg_transaction_value": 359.23932681099615
+        },
+        "customer_id": "C099",
+        "demographics": {
+            "age": 53,
+            "location": "City8"
+        }
+    }
+]

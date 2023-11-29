@@ -1,0 +1,38 @@
+--Table pour les transactions
+CREATE TABLE transactions (
+    transaction_id STRING,
+    date_time STRING,
+    amount DOUBLE,
+    currency STRING,
+    merchant_details STRING,
+    customer_id STRING,
+    transaction_type STRING,
+    location STRING
+)
+ROW FORMAT SERDE 'org.apache.hive.hcatalog.data.JsonSerDe'
+STORED AS TEXTFILE
+LOCATION '/path/to/transactions_data_directory';
+
+
+--Table pour les customers
+CREATE TABLE customers (
+    customer_id STRING,
+    account_history ARRAY<STRING>,
+    demographics STRUCT<age: INT, location: STRING>,
+    behavioral_patterns STRUCT<avg_transaction_value: DOUBLE>
+)
+ROW FORMAT SERDE 'org.apache.hive.hcatalog.data.JsonSerDe'
+STORED AS TEXTFILE
+LOCATION '/path/to/customers_data_directory';
+
+
+--Table pour les données externes
+CREATE TABLE external_data (
+    blacklist_info ARRAY<STRING>,
+    credit_scores MAP<STRING, INT>,
+    fraud_reports MAP<STRING, INT>
+)
+ROW FORMAT SERDE 'org.apache.hive.hcatalog.data.JsonSerDe'
+STORED AS TEXTFILE
+LOCATION '/path/to/external_data_directory';
+
