@@ -1,0 +1,16 @@
+2023-11-30 16:21:07,514 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5500
+2023-11-30 16:21:07,514 - INFO - [33mPress CTRL+C to quit[0m
+2023-11-30 16:21:07,520 - INFO -  * Restarting with stat
+2023-11-30 16:21:07,915 - WARNING -  * Debugger is active!
+2023-11-30 16:21:07,923 - INFO -  * Debugger PIN: 266-852-089
+2023-11-30 16:21:32,038 - INFO - 127.0.0.1 - - [30/Nov/2023 16:21:32] "[33mGET /transactions HTTP/1.1[0m" 404 -
+2023-11-30 16:31:26,759 - INFO - 127.0.0.1 - - [30/Nov/2023 16:31:26] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-30 16:32:08,705 - INFO - 127.0.0.1 - - [30/Nov/2023 16:32:08] "[33mGET /transactions HTTP/1.1[0m" 404 -
+2023-11-30 16:32:51,237 - INFO - 127.0.0.1 - - [30/Nov/2023 16:32:51] "GET /api/transactions HTTP/1.1" 200 -
+2023-11-30 16:39:12,290 - INFO - 127.0.0.1 - - [30/Nov/2023 16:39:12] "GET /api/transactions HTTP/1.1" 200 -
+2023-11-30 16:39:36,748 - INFO - 127.0.0.1 - - [30/Nov/2023 16:39:36] "GET /api/transactions HTTP/1.1" 200 -
+2023-11-30 16:53:47,225 - INFO - 127.0.0.1 - - [30/Nov/2023 16:53:47] "GET /api/transactions HTTP/1.1" 200 -
+2023-11-30 16:54:03,490 - INFO - 127.0.0.1 - - [30/Nov/2023 16:54:03] "GET /api/transactions HTTP/1.1" 200 -
+2023-11-30 16:55:30,451 - INFO - 127.0.0.1 - - [30/Nov/2023 16:55:30] "GET /api/transactions HTTP/1.1" 200 -
+2023-11-30 17:30:01,974 - INFO - 127.0.0.1 - - [30/Nov/2023 17:30:01] "GET /api/transactions HTTP/1.1" 200 -

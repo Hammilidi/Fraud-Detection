@@ -10,7 +10,7 @@ CREATE TABLE transactions (
     location STRING
 )
 ROW FORMAT SERDE 'org.apache.hive.hcatalog.data.JsonSerDe'
-STORED AS TEXTFILE
+STORED AS ORC
 LOCATION '/path/to/transactions_data_directory';
 
 
@@ -22,7 +22,7 @@ CREATE TABLE customers (
     behavioral_patterns STRUCT<avg_transaction_value: DOUBLE>
 )
 ROW FORMAT SERDE 'org.apache.hive.hcatalog.data.JsonSerDe'
-STORED AS TEXTFILE
+STORED AS ORC
 LOCATION '/path/to/customers_data_directory';
 
 
@@ -33,6 +33,6 @@ CREATE TABLE external_data (
     fraud_reports MAP<STRING, INT>
 )
 ROW FORMAT SERDE 'org.apache.hive.hcatalog.data.JsonSerDe'
-STORED AS TEXTFILE
+STORED AS ORC
 LOCATION '/path/to/external_data_directory';
 
